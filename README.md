@@ -1,9 +1,10 @@
 # urban-parakeet
 
-# Medium article:
+# Medium article
+Exploring anime data:
 https://medium.com/@kebabex/exploring-anime-data-a42d6f7baf71
 
-# Data set:
+# Data set
 https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=anime.csv
 
 # Purpose
